@@ -1,0 +1,21 @@
+h1{
+    color: green;
+}
+A{display: inline;
+    color: #010c10;
+    margin: 400PX;
+    font-weight: 5PX;
+    
+}
+h3{
+    color: red;
+}p{
+    color:rgb(0, 30, 255);
+}body{
+    background-color: chartreuse;
+}h2{
+    color:blueviolet
+}
+.button{
+    color: blue;
+}
